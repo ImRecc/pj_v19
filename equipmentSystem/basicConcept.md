@@ -1,8 +1,6 @@
-# p1. attach weapon
-when event triggered, we attach specificated items attach to specifacated socket on character.
-![image](https://github.com/user-attachments/assets/05accfe2-9f06-4a8e-ad96-5b0789b4f2f3)
-as the BP shown, we cast the character and using (get owner) to set self, then attach to specific socket
+f# p1. attach weapon
+when a customized event is triggered, we attach specific items to the specific socket on the character.
 
-then in the child bp: weapons(yes, weapons are kind of item, so..)
+The question is, which item(given on name or mesh) is on which socket?
 
-we spawn a Bp_class, so it's much easier for further funcitons.
+Others are just ignorable details like Simulate the Physical blahblhablah
