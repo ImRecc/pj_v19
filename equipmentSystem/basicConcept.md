@@ -9,3 +9,5 @@ Others are just ignorable details like Simulate the Physical blahblhablah
 as the title said, we attached items, then we want them all functional or, at least seem to be functional.
 
 Implement it with different animations, such as stance or attack animations. 
+
+I mean, we could blend Animations, like walking&operating some handy stuff
