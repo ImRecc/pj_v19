@@ -11,3 +11,4 @@ as the title said, we attached items, then we want them all functional or, at le
 Implement it with different animations, such as stance or attack animations. 
 
 I mean, we could blend Animations, like walking&operating some handy stuff
+（here's why we create a AnimMontage: to play from blueprint, thats simple)
